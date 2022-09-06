@@ -1,9 +1,9 @@
 {
-  "lessonTitle": "Primeros Pasos",
+  "lessonTitle": "Primeros Pasos prueba",
   "feedbackID": "00-PrimerosPasos",
   "permalink": "/Primeros_Pasos/",
   "eleventyNavigation": {
-    "key": "Primeros Pasos",
+    "key": "Primeros Pasos prueba",
     "order": 2
   }
 }
